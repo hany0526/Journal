@@ -1,0 +1,2 @@
+# Journal
+Journal is a WebApi Application that you can use it as a Journalist to post your Journals and your essays that there is a specific side to the authors to have to Put, Delete, Update their posts Journal has an admin that can modify on users (Update-Delete-Add) and can see the posts also but without editing it and some kinds of admins has privilege to connect on Database (Database Administrator) Business User is one of the most important user of our system to be able to add authors and articles that are written with these authors.
